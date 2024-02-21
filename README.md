@@ -1,2 +1,2 @@
-# Indian-start_up-ecosystem
+# Indian Start_up-ecosystem
 We embark on a journey of discovery as we leverage our data analysis expertise in a team of six to uncover the untapped potential within the Indian start-up ecosystem.
